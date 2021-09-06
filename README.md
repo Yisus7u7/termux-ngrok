@@ -6,6 +6,7 @@ Run official ngrok in termux
 pkg update -y
 pkg install git
 git clone https://github.com/Yisus7u7/termux-ngrok
+
 cd termux-ngrok
 bash install.sh
 ```
